@@ -50,8 +50,35 @@ print(format_book_info(read_books_from_txt()))
 
 ## Wrap your main menu function call in an "if __name__ == '__main__':" statement 
 # to ensure it doesn't accidentally run if this file is imported as a module elsewhere.
+def main_menu():
+    pass
+'''
+def main_menu():
+    while True:
+        choice = int(input("Would you like to - \n1. See all books - \n2. Add a book - \n3. See highest rated book in library - \n4. Exit - "))
+        
+        if choice == 1:
+            print(books)
+        elif choice == 2:
+            # create_new_book()
+            books.append(create_new_book())
+        elif choice == 3:
+            print(highest_rated(books))
+        elif choice == 4:
+            print("exiting the program")
+            break
+        else:
+            print("invalid choice. Please choose between 1-4")
+'''
 
 # Code this at the bottom of the script
+if __name__ == '__main__':
+    main_menu()
+    '''
+    Made a new file in the starter
+    that has finished project
+    
+    '''
 
 
 ### Step 4 - Expand and refactor
