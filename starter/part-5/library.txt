@@ -1,0 +1,3 @@
+The Hunger Games,Suzanne Collins,2008,4.32,374
+To Kill a Mockingbird,Harper Lee,1960,4.27,336
+1984,George Orwell,1949,4.77,328

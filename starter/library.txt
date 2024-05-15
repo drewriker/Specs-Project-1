@@ -1,0 +1,5 @@
+The Hunger Games,Suzanne Collins,2008,4.32,374
+To Kill a Mockingbird,Harper Lee,1960,4.27,336
+1984,George Orwell,1949,4.77,328
+The Great Gatsby,F. Scott Fitzgerald,1925,3.9,180
+The Catcher in the Rye,J.D. Salinger,1951,4.01,234
